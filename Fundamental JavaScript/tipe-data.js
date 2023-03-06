@@ -1,0 +1,33 @@
+const firstname = 'Ahmad', lastname = 'Wildan', gender = 'Laki-laki';
+let callname = null;
+let alias;
+let umur = 22;
+let dana = 92347923946287364872634823764;
+let gopay = 92347923946287364872634823764n;
+let olahraga  = true;
+let game = false;
+const id1 = Symbol("id");
+const id2 = Symbol("id");
+
+console.log(`Hallo, nama saya ${firstname} ${firstname}`);
+console.log(callname);
+console.log(gender);
+console.log(umur);
+console.log(dana);
+console.log(gopay);
+console.log(olahraga);
+console.log(game);
+console.log(dana < gopay);
+console.log(dana > gopay);
+console.log(id1 == id2);
+
+console.log(typeof(firstname));
+console.log(typeof(lastname));
+console.log(typeof(callname));
+console.log(typeof(alias));
+console.log(typeof(gender));
+console.log(typeof(umur));
+console.log(typeof(dana));
+console.log(typeof(gopay));
+console.log(typeof(olahraga));
+console.log(typeof(game));
