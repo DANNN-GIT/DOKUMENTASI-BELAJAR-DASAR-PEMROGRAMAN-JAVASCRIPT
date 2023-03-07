@@ -44,9 +44,9 @@ console.log(name, favoriteDrink);
  */
 
 let evenNumber = [];
-for (let start = 1; start <= 100; start++) {
-   if (start % 2 == 0) {
-      evenNumber.push(start);
+for (let number = 1; number <= 100; number++) {
+   if (number % 2 == 0) {
+      evenNumber.push(number);
    }
 }
 console.log(evenNumber);
