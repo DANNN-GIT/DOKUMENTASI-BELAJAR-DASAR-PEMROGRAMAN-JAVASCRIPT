@@ -7,10 +7,10 @@ function datauser(user) {
    users.set(user, count + 1);
 }
 
-let me = {name: 'Ahmad Wildan'};
-datauser(me);
+let newuser = {name: 'Ahmad Wildan'};
+datauser(newuser);
 
-me = null;
+newuser = null;
 
 setTimeout((event) => {
    console.log(inspect(users, { showHidden: true }));

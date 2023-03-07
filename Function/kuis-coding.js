@@ -29,7 +29,7 @@ function minimal(a, b) {
       return b;
    }
 }
-let print = minimal(4, 2);
+let print = minimal(6, 2);
 console.log(print);
 
 const power = (a, b) => {

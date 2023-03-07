@@ -1,5 +1,5 @@
 function profile({callname, fullname}) {
-   return `Nama lengkap ${callname} adalah ${fullname}`;
+   return `Nama lengkap ${callname} adalah ${fullname}.`;
 }
 const users = {
    callname: 'Wildan',

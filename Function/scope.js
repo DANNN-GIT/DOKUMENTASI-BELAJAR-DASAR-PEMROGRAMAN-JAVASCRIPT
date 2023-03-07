@@ -2,7 +2,7 @@ const name = 'Ahmad Wildan';
 
 function msib() {
    const mitra = 'Dicoding Academy';
-   const kelas = ['Dasar Pemrograman Web', 'Dasar Pemrograman JavaScript'];
+   const kelas = ['Belajar Dasar Pemrograman Web', 'Belajar Dasar Pemrograman JavaScript'];
 
    function progress() {
       console.log(mitra);

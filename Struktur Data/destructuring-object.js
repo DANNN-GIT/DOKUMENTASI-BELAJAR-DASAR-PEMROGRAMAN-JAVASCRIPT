@@ -1,4 +1,4 @@
-const me = {
+const mee = {
    name: 'Ahmad Wildan',
    tmplahir: 'Bondowoso',
    tgllahir: '27 Oktober 2000',
@@ -6,7 +6,7 @@ const me = {
    umur: 22
 }
 let name = 'Amalia Siska Kurniawati', tmplahir = 'Jakarta';
-({ name, tmplahir, tgllahir, gender, umur, hobi = null } = me);
+({ name, tmplahir, tgllahir, gender, umur, hobi = null } = mee);
 hobi = 'coding'; 
 console.log(name, tmplahir, tgllahir, gender, umur, hobi);
 

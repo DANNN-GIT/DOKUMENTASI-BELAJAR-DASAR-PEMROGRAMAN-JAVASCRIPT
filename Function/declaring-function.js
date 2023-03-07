@@ -9,7 +9,7 @@ hello('Ahmad Wildan', 'Inggris');
 function persegipanjang(panjang, lebar) {
    return panjang * lebar;
 }
-let luas = persegipanjang(10, 4);
+let luas = persegipanjang(12, 4);
 console.log(luas);
 
 let mahasiswa = function(nim) {
