@@ -1,0 +1,1 @@
+Folder Coffe Machine merupakan direktori praktik yang digunakan pada studi kasus dalam sub-modul "Setup Invironment" untuk membuat project JavaScript.

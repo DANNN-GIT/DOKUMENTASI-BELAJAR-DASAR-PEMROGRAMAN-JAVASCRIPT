@@ -1,0 +1,13 @@
+{
+  "name": "module-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
